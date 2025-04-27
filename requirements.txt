@@ -1,0 +1,8 @@
+Flask
+pyttsx3
+SpeechRecognition
+PyAudio
+google-generativeai
+flask
+pandas
+rapidfuzz
