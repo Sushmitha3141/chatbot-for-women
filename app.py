@@ -26,7 +26,7 @@ except Exception as e:
     engine = None
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyC9Y22Y0mWaX6QHstBUMqlzDxvY_5Injls")
+genai.configure(api_key="Enter_your_API_key")
 
 # Mock API for job listings, events, and mentorship
 class MockAPI:
